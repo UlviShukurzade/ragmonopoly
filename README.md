@@ -5,3 +5,8 @@ Ask questions about monopoly, and get response!
 All free, in your local machine 
 
 PS: This project is made for fun purposes
+
+
+'
+install requirements from requirements.txt
+'
