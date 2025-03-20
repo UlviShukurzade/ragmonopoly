@@ -3,6 +3,7 @@
 ### Never get tricked by your friends :D 
 Ask questions about monopoly, and get response!
 All free, in your local machine 
+Script utilizes nomic-embeddings, and mistral for generation, and chromadb for as vector database
 
 PS: This project is made for fun purposes
 
